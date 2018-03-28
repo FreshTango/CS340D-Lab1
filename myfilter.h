@@ -1,0 +1,1 @@
+void searchFile(char *filename);
